@@ -1,6 +1,7 @@
 # Morse Code Translator
 
 A simple Python command-line application that converts English text into Morse code using dictionaries and loops.
+This is my first GitHub project and one of the projects I built during my 100 Days of Python Challenge.
 
 ## Features
 
