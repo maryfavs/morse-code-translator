@@ -2,9 +2,6 @@
 # it into Morse Code.
 import sys
 
-print("First project to be uploaded on github huh?")
-print("You'll be alright so don't worry")
-
 print("=" * 36)
 print("Welcome to my very own Morse Coder")
 print("=" * 36)
